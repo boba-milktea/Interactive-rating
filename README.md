@@ -41,7 +41,7 @@ Users should be able to:
 
 ## My process
 
-Completed but can be improved
+Imroving the UI and CSS. 
 
 ### Built with
 
@@ -53,7 +53,9 @@ Completed but can be improved
 
 ### What I learned
 
-- Reviewed CSS flexbox 
+- CSS/ Reviewed CSS flexbox 
+- CSS/ adding global varaiables
+- JS / changing buttons to radio buttons 
 - JS / learned how to remove child nodes and append child elements 
 - JS / learned insertBefore, but it's not used in this practice
 ```js
