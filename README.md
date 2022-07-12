@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/boba-milktea/Interative-rating.git](https://github.com/boba-milktea/Interative-rating.git)
-- Live Site URL: [https://boba-milktea.github.io/Interative-rating/](https://boba-milktea.github.io/Interative-rating/)
+- Solution URL: [https://github.com/boba-milktea/Interactive-rating.git](https://github.com/boba-milktea/Interactive-rating.git)
+- Live Site URL: [https://boba-milktea.github.io/Interactive-rating/](https://boba-milktea.github.io/Interactive-rating/)
 
 ## My process
 
