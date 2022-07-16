@@ -12,6 +12,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
 
 
 ## Overview
@@ -27,11 +28,9 @@ Users should be able to:
 
 ### Screenshot
 
-[Desktop version](./imgages/rating-00.png)
-[Mobile version](./imgages/rating-01.png)
-[Hover effect](./imgages/rating-03.png)
-[Click effect](./imgages/rating-05.png)
-[Rating Result Page](./imgages/rating-06.png)
+- [Mobile version](./imgages/rating-01.png)
+- [Hover & checked effect](./imgages/rating-02.png)
+- [Rating Result Page](./imgages/rating-04.png)
 
 
 ### Links
@@ -41,7 +40,9 @@ Users should be able to:
 
 ## My process
 
-Completed but can be improved
+The 1st version completed on July 9, 2022
+The current version completed on July 16, 2022
+
 
 ### Built with
 
@@ -53,7 +54,13 @@ Completed but can be improved
 
 ### What I learned
 
-- Reviewed CSS flexbox 
+- CSS/ Reviewed CSS flexbox 
+- CSS/ adding global varaiables
+- JS / changing buttons to radio buttons 
+```css
+--root / var()
+z-index
+```
 - JS / learned how to remove child nodes and append child elements 
 - JS / learned insertBefore, but it's not used in this practice
 ```js
@@ -67,3 +74,8 @@ while (card.firstChild) {
 - In this project, to change the page after clicking the submit button, I chose to remove all the elements and adding new elements to the container. However, a better would be redirect to a new page. 
 
 - The submit button should be active only after one of the rating buttons is clicked. The page should give an alert when no rating button is active. 
+
+### Useful resources
+
+- [Pure CSS Radio Button Tiles / Coding Play ](https://youtu.be/UShd9wHTR-o) - This youtube video helped me on the hover/checked effects. The hover effect is astonishing. Clean code. 
+
